@@ -1,0 +1,4 @@
+1. streamlit
+2. pickle
+3. string
+4. nltk
